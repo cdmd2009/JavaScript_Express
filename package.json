@@ -1,16 +1,25 @@
 {
-  "name": "intro_express",
+  "name": "1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express manual",
+  "keywords": [],
+  "homepage": "https://github.com/cdmd2009/JavaScript_Express#readme",
+  "bugs": {
+    "url": "https://github.com/cdmd2009/JavaScript_Express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdmd2009/JavaScript_Express.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {}
 }
